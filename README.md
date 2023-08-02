@@ -1,4 +1,4 @@
-# ![nf-core/test](docs/images/nf-core-test_logo_light.png#gh-light-mode-only) ![nf-core/test](docs/images/nf-core-test_logo_dark.png#gh-dark-mode-only)
+# ![nf-core/test](docs/images/CMD.png#gh-light-mode-only) ![nf-core/test](docs/images/CMD.png#gh-dark-mode-only)
 
 [![AWS CI](https://img.shields.io/badge/CI%20tests-full%20size-FF9900?labelColor=000000&logo=Amazon%20AWS)](https://nf-co.re/test/results)[![Cite with Zenodo](http://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXXX-1073c8?labelColor=000000)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
@@ -8,11 +8,10 @@
 [![run with singularity](https://img.shields.io/badge/run%20with-singularity-1d355c.svg?labelColor=000000)](https://sylabs.io/docs/)
 [![Launch on Nextflow Tower](https://img.shields.io/badge/Launch%20%F0%9F%9A%80-Nextflow%20Tower-%234256e7)](https://tower.nf/launch?pipeline=https://github.com/nf-core/test)
 
-[![Get help on Slack](http://img.shields.io/badge/slack-nf--core%20%23test-4A154B?labelColor=000000&logo=slack)](https://nfcore.slack.com/channels/test)[![Follow on Twitter](http://img.shields.io/badge/twitter-%40nf__core-1DA1F2?labelColor=000000&logo=twitter)](https://twitter.com/nf_core)[![Follow on Mastodon](https://img.shields.io/badge/mastodon-nf__core-6364ff?labelColor=FFFFFF&logo=mastodon)](https://mstdn.science/@nf_core)[![Watch on YouTube](http://img.shields.io/badge/youtube-nf--core-FF0000?labelColor=000000&logo=youtube)](https://www.youtube.com/c/nf-core)
 
 ## Introduction
 
-**nf-core/test** is a bioinformatics pipeline that ...
+**nf-core/test** is a bioinformatics pipeline intended to test nf-core pipeline templates for molecular diagnostics.
 
 <!-- TODO nf-core:
    Complete this sentence with a 2-3 sentence summary of what types of data the pipeline ingests, a brief overview of the
@@ -86,7 +85,6 @@ We thank the following people for their extensive assistance in the development 
 
 If you would like to contribute to this pipeline, please see the [contributing guidelines](.github/CONTRIBUTING.md).
 
-For further information or help, don't hesitate to get in touch on the [Slack `#test` channel](https://nfcore.slack.com/channels/test) (you can join with [this invite](https://nf-co.re/join/slack)).
 
 ## Citations
 
