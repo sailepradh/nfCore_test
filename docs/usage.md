@@ -1,6 +1,6 @@
 # nf-core/test: Usage
 
-## :warning: Please read this documentation on the nf-core website: [https://nf-co.re/test/usage](https://nf-co.re/test/usage)
+
 
 > _Documentation of pipeline parameters is generated automatically from the pipeline schema and can no longer be found in markdown files._
 
